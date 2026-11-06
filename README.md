@@ -16,7 +16,7 @@ Has NFL home-field advantage decreased since the COVID-19 pandemic?
 The project examines home-team win percentage by season and compares two periods:
 
 - **Pre-pandemic:** 2014–2019
-- **Post-pandemic:** 2021 onward
+- **Post-pandemic:** 2021-Present
 
 The 2020 season is excluded from this period comparison. The analysis also evaluates whether the difference between the two periods is statistically significant.
 
